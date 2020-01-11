@@ -1,0 +1,9 @@
+.container-fluid{
+    padding: 0;
+}
+.x-display{
+    display: inline!important;
+}
+.x-title{
+    line-height: 64px;
+}
